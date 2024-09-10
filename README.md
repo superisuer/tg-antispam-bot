@@ -1,7 +1,7 @@
 # Telegram Group Anti-Spam Bot
 ![Demo 1](demo/bot_demostrating1.png)
 ## About
-This is a lightweight Anti-Spam bot for your group. May not remove flood or spam. **Official bot - @group_antispam_telegram_bot**.
+This is a lightweight Anti-Spam bot for your group. **Official bot - @group_antispam_telegram_bot**.
 ## Settings
 - `token` - Token from BotFather | *default: ""*
 - `blocked_urls` - Blocked URLs in message.text |                                  *default: ["t.me","tiktok.ru","iplogger.com"]*
