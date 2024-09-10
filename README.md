@@ -11,4 +11,4 @@ This is a lightweight Anti-Spam bot for your group. **Official bot - @group_anti
 ## Install
 1. `pip install -r requirements.txt`
 2. Set up your bot.
-3. Run *bot.py*.
+3. Run **bot.py**.
