@@ -8,7 +8,7 @@ token='' # Token from BotFather
 blocked_urls = ["t.me","tiktok.ru","iplogger.com"]     # Blocked URLs in message.text
 bot_can_send_messages = True                           # Determines whether the bot can send messages to chat
 max_messages_in_list = 5                               # How much messages can write in bot memory
-bot_can_block_admin_messages = True                    # Admin immunity to bot
+bot_can_block_admin_messages = False                   # Admin immunity to bot
 contact_username = "huekx"                             # Username for contact
 max_symbols_in_message = 2000                          # Maximum number of allowed characters
 # ----------------------------------------------------
